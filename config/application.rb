@@ -1,3 +1,9 @@
+# This is a comment to cause a change between
+# my master branch and your master branch which
+# will enable me to send a pull request.
+# Ignore this comment and discard the pull
+# request.
+
 require File.expand_path('../boot', __FILE__)
 
 require 'rails/all'
